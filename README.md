@@ -1,14 +1,14 @@
-# Sumi Creative Skills
+# Nicky Creative Skills
 
 Reusable creative workflows, with the films they helped produce.
 
-[Watch the Gallery](https://nickyli37.github.io/sumi-creative-skills/) · [Explore the skills](#skills) · [Add a skill](CONTRIBUTING.md) · [中文](README.zh-CN.md)
+[Watch the Gallery](https://nickyli37.github.io/nicky-creative-skills/) · [Explore the skills](#skills) · [Add a skill](CONTRIBUTING.md) · [中文](README.zh-CN.md)
 
 This is Nicky Li's growing collection of practical skills for Sumi Studio and compatible agent hosts. Each skill packages a repeatable creative process, its references and checks. The Gallery connects the instructions to real examples, with separate **category** and **style** filters.
 
 ## First film
 
-[![Thriller AI-character recreation](site/media/thriller-ai-recast.jpg)](https://nickyli37.github.io/sumi-creative-skills/#gallery)
+[![Thriller AI-character recreation](site/media/thriller-ai-recast.jpg)](https://nickyli37.github.io/nicky-creative-skills/#gallery)
 
 **Thriller, recast with AI characters** — a complete 132.54-second dance sequence, 54 shot ranges, 4:3. The Gallery plays the full silent web preview with the Sumi Studio watermark. The original soundtrack and 4K production master are not included in this repository.
 

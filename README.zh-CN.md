@@ -1,8 +1,8 @@
-# Sumi Creative Skills
+# Nicky Creative Skills
 
 这是 Nicky Li 持续积累的创作技能库：把实际制作中有效的方法提炼成可复用 skill，并让使用者直接看到案例。
 
-[打开 Gallery](https://nickyli37.github.io/sumi-creative-skills/) · [English](README.md) · [新增技能指南](CONTRIBUTING.md)
+[打开 Gallery](https://nickyli37.github.io/nicky-creative-skills/) · [English](README.md) · [新增技能指南](CONTRIBUTING.md)
 
 首个技能是 [sumi-mv-recast](skills/sumi-mv-recast/SKILL.md)：按选定段落复刻 MV，分开使用 Depth 动作参考、净场景、正式角色设定和首帧构图，再逐镜验收、局部修复、回配声音与等比例超分。
 

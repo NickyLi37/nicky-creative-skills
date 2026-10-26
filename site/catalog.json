@@ -1,6 +1,6 @@
 {
-  "title": "Sumi Creative Skills",
-  "repoUrl": "https://github.com/NickyLi37/sumi-creative-skills",
+  "title": "Nicky Creative Skills",
+  "repoUrl": "https://github.com/NickyLi37/nicky-creative-skills",
   "skills": [
     {
       "id": "sumi-mv-recast",
@@ -8,7 +8,7 @@
       "description": "Recreate a selected music-video sequence with approved characters, matched motion references and shot-by-shot review. 从角色、Depth与场景参考到局部返修和成片验收。",
       "category": "Music video",
       "styles": ["Anime", "Cinematic"],
-      "skillUrl": "https://github.com/NickyLi37/sumi-creative-skills/blob/main/skills/sumi-mv-recast/SKILL.md",
+      "skillUrl": "https://github.com/NickyLi37/nicky-creative-skills/blob/main/skills/sumi-mv-recast/SKILL.md",
       "sumiUrl": "https://sumistudio.ai/en/skills/cmvowuj2x0pe6r50k12143t1a",
       "examples": [
         {
