@@ -1,0 +1,27 @@
+{
+  "title": "Sumi Creative Skills",
+  "repoUrl": "https://github.com/NickyLi37/sumi-creative-skills",
+  "skills": [
+    {
+      "id": "sumi-mv-recast",
+      "title": "MV character recast",
+      "description": "Recreate a selected music-video sequence with approved characters, matched motion references and shot-by-shot review. 从角色、Depth与场景参考到局部返修和成片验收。",
+      "category": "Music video",
+      "styles": ["Anime", "Cinematic"],
+      "skillUrl": "https://github.com/NickyLi37/sumi-creative-skills/blob/main/skills/sumi-mv-recast/SKILL.md",
+      "sumiUrl": "https://sumistudio.ai/en/skills/cmvowuj2x0pe6r50k12143t1a",
+      "examples": [
+        {
+          "id": "thriller-ai-recast",
+          "title": "Thriller, recast with AI characters",
+          "description": "DeepSeek leads a cast of AI characters through a 54-shot dance sequence. Depth guides movement; scene plates, identity references and local repairs shape the final film.",
+          "video": "media/thriller-ai-recast-preview.mp4",
+          "poster": "media/thriller-ai-recast.jpg",
+          "durationSeconds": 132.541667,
+          "aspectRatio": "4:3",
+          "audioLabel": "Silent web preview · full sequence"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sumi MV Recast"
+  short_description: "Recast MV characters with depth references and frame QA"
+  default_prompt: "Use $sumi-mv-recast to recreate my selected MV excerpt with approved characters, preserving shot timing and reviewing each result."
