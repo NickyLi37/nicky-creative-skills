@@ -1,0 +1,48 @@
+.project-intro{display:grid;grid-template-columns:1.1fr 1fr;gap:72px;align-items:end;padding:42px 0 42px}
+.project-back{font-size:13px;color:var(--muted);margin:0 0 30px}
+.project-back a{text-decoration:none}
+.project-back a:hover{text-decoration:underline}
+.project-intro h1{font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",serif;font-size:clamp(44px,5vw,72px);font-weight:500;line-height:1.25;letter-spacing:.04em}
+.project-english{font-size:19px;letter-spacing:.02em;color:var(--muted);margin:12px 0 0}
+.project-lead{max-width:480px}
+.project-lead>p:first-child{font-size:19px;line-height:1.8;margin:0 0 18px}
+.project-byline{font-size:13px;color:var(--muted);line-height:1.8;margin:0}
+.project-film{margin:0;scroll-margin-top:20px}
+.project-film video{--video-ratio:16 / 9}
+.project-film figcaption{padding-top:14px;font-size:13px;color:var(--muted)}
+.project-film figcaption p{margin:0}
+.project-film figcaption p:last-child{text-align:right}
+.project-actions{display:flex;gap:24px;align-items:center;flex-wrap:wrap;padding:26px 0 0}
+.project-section{padding:64px 0;border-bottom:1px solid var(--line)}
+.project-section p{max-width:46em;line-height:1.85}
+.project-section h2{letter-spacing:0;line-height:1.4}
+.project-story{display:grid;grid-template-columns:1.1fr 1fr;gap:72px;align-items:start;padding-bottom:42px;border:0}
+.project-story p{margin:18px 0 0;color:var(--muted)}
+.project-story>p{margin:0;padding-top:4px}
+.project-stills{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.project-stills figure{margin:0;min-width:0}
+.project-stills img{display:block;width:100%;height:auto;aspect-ratio:16 / 9;object-fit:cover;border-radius:5px;background:var(--wash)}
+.project-stills figcaption{display:block;padding:16px 0 0;font-size:14px}
+.project-stills figcaption strong{font-weight:600}
+.project-stills figcaption p{margin:6px 0 0;color:var(--muted);font-size:13px;max-width:38em}
+.project-section-heading{display:flex;justify-content:space-between;align-items:baseline;gap:24px}
+.project-section-heading p{font-size:13px;color:var(--muted);margin:0}
+.project-method{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:38px;padding:0 0 0 22px;margin:32px 0 0}
+.project-method li{padding-left:8px}
+.project-method li::marker{color:var(--purple);font-size:17px;font-weight:600}
+.project-method h3,.project-scope h3{font-size:19px;line-height:1.5;letter-spacing:0;margin:0 0 12px}
+.project-method p{font-size:14px;color:var(--muted);margin:0}
+.project-readmore{margin:26px 0 0}
+.project-install{display:grid;grid-template-columns:1.15fr 1fr;gap:72px;align-items:start}
+.project-install p{font-size:15px;color:var(--muted)}
+.project code{font-size:.92em;overflow-wrap:anywhere;color:var(--ink)}
+.project-prompt{padding:18px 22px;border-left:3px solid var(--purple);background:var(--wash);margin:24px 0 0}
+.project-scope{padding:26px 28px;background:var(--wash);border-radius:6px}
+.project-scope p{font-size:14px}
+.project-credits{border:0;padding-bottom:54px;font-size:13px;color:var(--muted)}
+.project-credits h2{color:var(--ink);font-size:21px}
+.project-credits ul{padding-left:20px;max-width:70em;line-height:1.85}
+.project-credits li{margin:7px 0}
+.project-credits p{max-width:70em}
+@media(max-width:1050px){.project-intro,.project-story,.project-install{gap:40px}.project-method{gap:26px}.project-section-heading{display:block}.project-section-heading p{margin-top:12px}}
+@media(max-width:760px){.project-intro{grid-template-columns:1fr;gap:26px;padding:30px 0}.project-back{margin-bottom:24px}.project-intro h1{font-size:clamp(38px,9vw,56px)}.project-english{font-size:16px}.project-lead>p:first-child{font-size:17px;max-width:28em}.project-film figcaption{display:block;font-size:12px}.project-film figcaption p:last-child{text-align:left;margin-top:6px}.project-film figcaption br{display:none}.project-actions{gap:18px 22px;padding-top:22px}.project-section{padding:42px 0}.project-story,.project-install{grid-template-columns:1fr;gap:20px}.project-story>p{padding:0}.project-stills{grid-template-columns:1fr;gap:28px}.project-method{grid-template-columns:1fr;gap:26px}.project-method h3{margin-bottom:8px}.project-scope{padding:22px}.project-credits{padding-bottom:36px}}

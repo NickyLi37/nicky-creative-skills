@@ -70,6 +70,8 @@ def validate_catalog(root):
         https_url(skill.get('skillUrl'), f'{slug}.skillUrl')
         if skill.get('sumiUrl') not in (None, ''):
             https_url(skill['sumiUrl'], f'{slug}.sumiUrl')
+        if skill.get('projectUrl') not in (None, ''):
+            media(skill['projectUrl'], root / 'site', f'{slug}.projectUrl')
         examples = skill.get('examples')
         require(isinstance(examples, list), f'{slug}.examples: expected a list')
         for example in examples:

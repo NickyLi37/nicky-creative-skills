@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+# never commit generated media or data
+*.png
+*.jpg
+*.wav
+*.mp4
+*.bin
+data/
+out/frames*/

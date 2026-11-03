@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>一座城的经纬 · render</title>
+<style>
+  @font-face { font-family: 'NSans'; src: url(fonts/NotoSansCJKsc-Regular.otf); font-weight: 400; }
+  @font-face { font-family: 'NSans'; src: url(fonts/NotoSansCJKsc-Medium.otf); font-weight: 500; }
+  @font-face { font-family: 'NSans'; src: url(fonts/NotoSansCJKsc-Bold.otf); font-weight: 700; }
+  @font-face { font-family: 'NSerif'; src: url(fonts/NotoSerifSC-VF.ttf); font-weight: 200 900; }
+  @font-face { font-family: 'Inter'; src: url(fonts/Inter-VF.ttf); font-weight: 100 900; }
+  @font-face { font-family: 'Callig'; src: url(fonts/MaShanZheng-Regular.ttf); }
+  html, body { margin: 0; background: #000; overflow: hidden; }
+  #stage { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #050506; }
+  #c { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
+  #hud { position: absolute; inset: 0; pointer-events: none; color: #F5F3EE;
+         font-family: NSans, Inter, sans-serif; -webkit-font-smoothing: antialiased; }
+</style>
+</head>
+<body>
+<div id="stage"><canvas id="c"></canvas><div id="hud"></div></div>
+<script type="importmap">
+{ "imports": {
+  "three": "/render/node_modules/three/build/three.module.js",
+  "three/addons/": "/render/node_modules/three/examples/jsm/"
+} }
+</script>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

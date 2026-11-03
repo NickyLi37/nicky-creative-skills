@@ -1,0 +1,8 @@
+{
+  "name": "white-model-city-film-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "^1.49.1"
+  }
+}

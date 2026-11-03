@@ -1,0 +1,18 @@
+numpy
+scipy
+pillow
+# data prep (example/suzhou/prep)
+pyproj
+shapely
+pyogrio
+geopandas
+pandas
+mapbox-earcut
+requests
+opencv-python
+scikit-image
+# QA: per-line speech recognition (Apple silicon)
+mlx-whisper; sys_platform == "darwin" and platform_machine == "arm64"
+soundfile
+opencc-python-reimplemented
+cn2an

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="《人家尽枕河》：Nicky Li 与 Claude 通过 Sumi Studio MCP 制作的苏州白模城市纪录短片。观看完整作品，下载开源 white-model-city-film Skill。">
+  <meta name="theme-color" content="#ffffff">
+  <meta property="og:title" content="人家尽枕河 · Nicky Creative Skills">
+  <meta property="og:description" content="92,681 栋建筑，一座城与水的故事。观看苏州白模短片，带走开源制作方法。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html">
+  <meta property="og:image" content="https://nickyli37.github.io/nicky-creative-skills/media/suzhou-poster.jpg">
+  <title>人家尽枕河 · Nicky Creative Skills</title>
+  <link rel="canonical" href="https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../project.css">
+</head>
+<body>
+  <a class="skip-link" href="#film">跳到影片</a>
+  <header class="masthead page-width">
+    <a class="brand" href="../" aria-label="Nicky Creative Skills 首页"><strong>Nicky</strong><span>Creative Skills</span></a>
+    <nav aria-label="主导航"><a href="../#gallery">Gallery</a><a href="https://github.com/NickyLi37/nicky-creative-skills">GitHub</a><a href="https://sumistudio.ai/en/skills">Sumi Studio</a></nav>
+  </header>
+  <main class="page-width project">
+    <section class="project-intro" aria-labelledby="project-title">
+      <div>
+        <p class="project-back"><a href="../#white-model-city-film">返回作品集</a></p>
+        <h1 id="project-title">人家尽枕河</h1>
+        <p class="project-english" lang="en">Homes Pillowed on the River</p>
+      </div>
+      <div class="project-lead">
+        <p>从六千年前的稻田，到今天的苏州。沿着水路，看一座城如何生长，又留下了什么。</p>
+        <p class="project-byline">Nicky Li 与 Claude 创作<br>旁白与配乐通过 Sumi Studio MCP 生成</p>
+      </div>
+    </section>
+
+    <figure class="project-film" id="film">
+      <div class="screen">
+        <video controls playsinline preload="metadata" poster="../media/suzhou-poster.jpg" width="1920" height="1080" aria-label="人家尽枕河：完整苏州城市纪录短片" aria-describedby="film-caption">
+          <source src="../media/suzhou-preview.mp4" type="video/mp4">
+          <track kind="subtitles" src="../media/suzhou-subtitles.vtt" srclang="zh" label="中英双语">
+          您的浏览器无法播放此影片。<a href="../media/suzhou-preview.mp4">打开视频文件</a>。
+        </video>
+      </div>
+      <figcaption id="film-caption">
+        <p>完整作品 · 4 分 18 秒 · 中文旁白与中英字幕</p>
+        <p>网页播放 1080p / 24 fps<br> 制作母版 4K / 16:9</p>
+      </figcaption>
+    </figure>
+
+    <div class="project-actions" aria-label="项目资源">
+      <a class="button" href="../downloads/white-model-city-film.skill" download>下载 Skill</a>
+      <a class="text-link" href="https://github.com/NickyLi37/nicky-creative-skills/tree/main/skills/white-model-city-film">查看源码与使用说明</a>
+      <a class="text-link" href="../media/suzhou-preview.mp4" download>下载完整预览（约 30 MB）</a>
+    </div>
+
+    <section class="project-section project-story" aria-labelledby="story-title">
+      <div>
+        <h2 id="story-title">把一座城，放回河流之间</h2>
+        <p>片名取自杜荀鹤《送人游吴》：“君到姑苏见，人家尽枕河。”影片以人家与水为线索，经过平江图、古城保护与城市两翼，最终回到枕河而居。</p>
+      </div>
+      <p>92,681 栋建筑覆盖 32 × 21 公里的城区。建筑轮廓、高度与年代来自真实数据，历史阶段以专题图层和示意动画呈现。画面由 Three.js 逐帧渲染，38 句旁白与一首连续配乐共同决定影片的节奏。</p>
+    </section>
+
+    <div class="project-stills">
+      <figure>
+        <img src="../media/suzhou-history.jpg" alt="苏州古城白模上叠加平江图河道与街巷，展示古今空间关系" width="1920" height="1080" loading="lazy">
+        <figcaption><strong>平江图上的城</strong><p>将南宋石刻图的线条配准到今天的水系，呈现历史与当下的关系。</p></figcaption>
+      </figure>
+      <figure>
+        <img src="../media/suzhou-growth.jpg" alt="金鸡湖周围现代建筑白模与城市天际线" width="1920" height="1080" loading="lazy">
+        <figcaption><strong>向东西展开的苏州</strong><p>用建筑年代组织生长节奏，让古城与现代天际线在同一张地图上相遇。</p></figcaption>
+      </figure>
+    </div>
+
+    <section class="project-section" aria-labelledby="method-title">
+      <div class="project-section-heading">
+        <h2 id="method-title">从这部片子，带走一套方法</h2>
+        <p lang="en">A reusable workflow for data-driven city films.</p>
+      </div>
+      <ol class="project-method">
+        <li><h3>先有故事，再有地图</h3><p>确定城市叙事，逐句核对事实，再整理建筑、道路、水系与历史图层。数据无法说明的部分，明确标注为示意。</p></li>
+        <li><h3>让每一帧可以重做</h3><p>帧号决定相机、建筑与字幕状态。逐帧渲染可断点续跑、并行处理，也能只重渲修改过的片段。</p></li>
+        <li><h3>让旁白与音乐一起呼吸</h3><p>保留旁白原速，用句间停顿调整画面时长和音乐对位；混音只按需压低人声频段，最后检查字幕、年份、跳帧与响度。</p></li>
+      </ol>
+      <p class="project-readmore"><a class="text-link" href="https://github.com/NickyLi37/nicky-creative-skills/blob/main/docs/suzhou-case-study.md">阅读制作案例与验证范围</a></p>
+    </section>
+
+    <section class="project-section project-install" aria-labelledby="install-title">
+      <div>
+        <h2 id="install-title">做下一座城市</h2>
+        <p><code>white-model-city-film</code> 包含 Skill 指令、分步参考、数据处理和渲染示例、旁白排时、混音及质检脚本。原创代码与文档采用 MIT 许可。</p>
+        <p>将 Skill 文件夹放入 Claude Code 的 <code>~/.claude/skills/</code> 或 Codex 的 <code>~/.codex/skills/</code>；也可下载 <code>.skill</code> 包导入支持该格式的客户端。</p>
+        <p class="project-prompt">“用 white-model-city-film，为我做一条关于杭州的白模城市短片。先给我故事线、数据来源与制作预算。”</p>
+      </div>
+      <div class="project-scope">
+        <h3>开始前准备</h3>
+        <p>Node.js、Python、Chrome 与 FFmpeg。旁白和配乐可使用已连接的 Sumi Studio MCP，每次生成使用你自己的积分。</p>
+        <p>示例保留完整制作代码；地图数据、历史图像、音频源文件、字体及品牌素材需按说明另行准备。仅下载源码不能直接重建成片。</p>
+        <a class="text-link" href="https://github.com/NickyLi37/nicky-creative-skills/tree/main/skills/white-model-city-film#readme">安装、依赖与重建指南</a>
+      </div>
+    </section>
+
+    <section class="project-section project-credits" aria-labelledby="credits-title">
+      <h2 id="credits-title">数据与致谢</h2>
+      <p>形式与节奏参考 <a href="https://x.com/EianLu/status/2111662397278847478">@EianLu 的成都城市短片</a>。感谢原作者的启发。</p>
+      <ul>
+        <li>建筑：<a href="https://figshare.com/articles/dataset/CMAB-The_World_s_First_National-Scale_Multi-Attribute_Building_Dataset/27992417">CMAB，Zhang, Zhao &amp; Long</a>，CC BY 4.0。</li>
+        <li>道路、水系与部分地标高度：<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a>，ODbL。</li>
+        <li>卫星底图：<a href="https://cloudless.eox.at/documentation/faq">Sentinel-2 cloudless 2016 by EOX</a>，CC BY 4.0，含修改过的 Copernicus Sentinel 数据。</li>
+        <li>平江图示意重绘：描线参考 <a href="https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%A4%A7%E5%AE%8B%E7%A2%91%E2%80%94%E2%80%94%E5%B9%B3%E6%B1%9F%E5%9B%BE%EF%BC%8C2016-05-15.jpg">Siyuwj 的平江图照片</a>，<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>，经描线、配准与示意重绘；拓片照片来自《亜細亜大観》第 14 辑，公有领域。</li>
+        <li>字体：Noto Sans/Serif CJK、Inter、Ma Shan Zheng，SIL OFL。</li>
+      </ul>
+      <p>MIT 许可覆盖原创代码与文档。此页影片、剧照、音乐、旁白、标识及第三方素材不因此获得 MIT 授权；各自许可与署名要求继续适用。<a href="https://github.com/NickyLi37/nicky-creative-skills/blob/main/site/media/README.md">查看媒体使用说明</a>。</p>
+    </section>
+  </main>
+  <footer class="page-width footer"><div><strong>Make something. Keep the method.</strong><p>A growing collection of creative skills by Nicky Li.</p></div><p class="license-note"><a href="../#gallery">返回 Gallery</a><br>Skill code and documentation: MIT.<br>Example media has separate rights.</p></footer>
+</body>
+</html>

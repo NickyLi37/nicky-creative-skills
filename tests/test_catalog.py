@@ -91,6 +91,15 @@ class CatalogueTests(unittest.TestCase):
                 with self.assertRaisesRegex(ValueError, 'durationSeconds'):
                     self.check()
 
+    def test_project_page_must_exist_and_stay_inside_site(self):
+        (self.root / 'site/project.html').write_text('<h1>Case study</h1>')
+        self.skill['projectUrl'] = 'project.html'
+        self.assertEqual(self.check()['skills'], 1)
+        for value in ('missing.html', '../private.html', 'javascript:alert(1)'):
+            self.skill['projectUrl'] = value
+            with self.assertRaises(ValueError):
+                self.check()
+
 
 if __name__ == '__main__':
     unittest.main()

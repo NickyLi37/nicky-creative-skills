@@ -4,7 +4,19 @@
 
 [打开 Gallery](https://nickyli37.github.io/nicky-creative-skills/) · [English](README.md) · [新增技能指南](CONTRIBUTING.md)
 
-首个技能是 [sumi-mv-recast](skills/sumi-mv-recast/SKILL.md)：按选定段落复刻 MV，分开使用 Depth 动作参考、净场景、正式角色设定和首帧构图，再逐镜验收、局部修复、回配声音与等比例超分。
+## 新作品：《人家尽枕河》
+
+[![苏州白模城市短片](site/media/suzhou-poster.jpg)](https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html)
+
+Nicky Li 与 Claude 通过 Sumi Studio MCP 完成的苏州短片：92,681 栋真实建筑、约六千年的城市故事、38 句旁白、中英双语字幕。画面由 Three.js 逐帧渲染，AI 用于旁白和配乐。成片 4 分 17.92 秒、24 fps，4K 母版；网页提供完整 1080p 有声版。
+
+[打开作品展示页](https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html) · [查看 Skill 与示例源码](skills/white-model-city-film/) · [下载 .skill](https://nickyli37.github.io/nicky-creative-skills/downloads/white-model-city-film.skill) · [制作案例](docs/suzhou-case-study.md)
+
+`white-model-city-film` 包含流程、通用脚本、苏州示例源码及制作记录。解压后的完整目录可放入 `~/.claude/skills/`（Claude Code）或 `~/.codex/skills/`（Codex）；依赖安装见 [技能 README](skills/white-model-city-film/README.md)。公开包不含原始数据、音频分轨、字体、品牌素材或 4K 母版，重建需要自行准备相应资源。Sumi 配音和音乐生成会消耗使用者自己的积分。
+
+## 已有作品
+
+[sumi-mv-recast](skills/sumi-mv-recast/SKILL.md)：按选定段落复刻 MV，分开使用 Depth 动作参考、净场景、正式角色设定和首帧构图，再逐镜验收、局部修复、回配声音与等比例超分。
 
 Gallery 已提供《Thriller》AI娘复刻的完整132.54秒无声网页预览，保留4:3和Sumi Studio水印。原声和4K母版未进入公开仓库。案例展示的是经过多轮制作与验收的结果，并不保证一次生成即可精准复刻。
 
@@ -14,9 +26,9 @@ Gallery 已提供《Thriller》AI娘复刻的完整132.54秒无声网页预览�
 - **风格 Styles**：视觉呈现，例如 Anime、Cinematic、Photorealistic、Stop motion。
 - 一个技能可以有多个风格和多个案例。Depth属于方法，不作为风格标签。
 
-目录清单是 `site/catalog.json`，新增条目后，搜索、筛选和案例展示自动更新。当前只有一个已公开技能；不会把规划中的内容标成已完成。
+目录清单是 `site/catalog.json`，新增条目后，搜索、筛选和案例展示自动更新。目前包含城市白模纪录短片与 MV 角色复刻两个技能。
 
-## 使用
+## 使用 MV 角色复刻
 
 1. 在 [Sumi Skill Market](https://sumistudio.ai/en/skills/cmvowuj2x0pe6r50k12143t1a) 安装，然后输入 `/sumi-mv-recast`。
 2. 提供选中段落、正式角色、已有Depth及预算/保真优先级。已有工程和授权可继续沿用。

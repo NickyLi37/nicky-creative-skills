@@ -3,11 +3,39 @@
   "repoUrl": "https://github.com/NickyLi37/nicky-creative-skills",
   "skills": [
     {
+      "id": "white-model-city-film",
+      "title": "White-model city film · 城市白模纪录短片",
+      "description": "Turn real building data into a city documentary with Three.js, historical maps, AI narration and a continuous score. 从真实建筑、历史地图到双语字幕与 4K 成片。",
+      "category": "Documentary",
+      "styles": [
+        "White model",
+        "Cartographic"
+      ],
+      "skillUrl": "https://github.com/NickyLi37/nicky-creative-skills/tree/main/skills/white-model-city-film",
+      "sumiUrl": "",
+      "projectUrl": "projects/suzhou.html",
+      "examples": [
+        {
+          "id": "suzhou-river",
+          "title": "人家尽枕河 · Homes Pillowed on the River",
+          "description": "Nicky Li 与 Claude 通过 Sumi Studio MCP 制作。92,681 栋建筑与六千年的苏州故事：代码渲染城市画面，AI 生成旁白和配乐。",
+          "video": "media/suzhou-preview.mp4",
+          "poster": "media/suzhou-poster.jpg",
+          "durationSeconds": 257.916667,
+          "aspectRatio": "16:9",
+          "audioLabel": "Full film · 1080p · Mandarin narration + score · 中英字幕"
+        }
+      ]
+    },
+    {
       "id": "sumi-mv-recast",
       "title": "MV character recast",
       "description": "Recreate a selected music-video sequence with approved characters, matched motion references and shot-by-shot review. 从角色、Depth与场景参考到局部返修和成片验收。",
       "category": "Music video",
-      "styles": ["Anime", "Cinematic"],
+      "styles": [
+        "Anime",
+        "Cinematic"
+      ],
       "skillUrl": "https://github.com/NickyLi37/nicky-creative-skills/blob/main/skills/sumi-mv-recast/SKILL.md",
       "sumiUrl": "https://sumistudio.ai/en/skills/cmvowuj2x0pe6r50k12143t1a",
       "examples": [

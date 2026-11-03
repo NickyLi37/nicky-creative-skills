@@ -6,7 +6,7 @@ Keep the repository useful as the collection grows: one self-contained skill fol
 
 1. Create `skills/<lowercase-kebab-name>/SKILL.md` with `name` and `description` YAML frontmatter. Explain when to use it, the useful decisions and the actual workflow. Keep supporting prompts, scripts and references in that folder.
 2. Test nontrivial helpers and exercise the skill against a realistic request. Record what was and was not verified. Do not describe a successful model request as visually accepted footage.
-3. Add an entry to `site/catalog.json`. Use the same `id` as the folder name. Supply a title, description, category, styles, GitHub skill URL, and a published Sumi URL when available (`sumiUrl` may be empty before publication).
+3. Add an entry to `site/catalog.json`. Use the same `id` as the folder name. Supply a title, description, category, styles, GitHub skill URL, and a published Sumi URL when available (`sumiUrl` may be empty before publication). An optional `projectUrl` links a dedicated project page; local paths are relative to `site/` and must exist.
 4. Add real examples or an empty `examples` array; don't invent a demo. Each example uses a unique `id`, title, description, `video`, `poster`, `durationSeconds`, `aspectRatio` and `audioLabel`.
 5. Run the README checks and review the Gallery at desktop and phone widths. Check video start, seek and natural completion. Open a pull request describing the skill and its validation.
 

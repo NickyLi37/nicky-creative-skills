@@ -57,6 +57,9 @@ async function startGallery() {
         const sumiLink = row.querySelector('.sumi-link');
         if (skill.sumiUrl) sumiLink.href = safeUrl(skill.sumiUrl, document.baseURI);
         else sumiLink.remove();
+        const projectLink = row.querySelector('.project-link');
+        if (skill.projectUrl) projectLink.href = safeUrl(skill.projectUrl, document.baseURI);
+        else projectLink.remove();
         skill.examples.forEach(example => {
           const film = document.querySelector('#example-template').content.cloneNode(true);
           film.querySelector('h4').textContent = example.title;

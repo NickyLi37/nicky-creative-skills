@@ -23,6 +23,7 @@ jobs:
           python3 scripts/check_catalog.py
           python3 -m unittest discover -s tests -p 'test_*.py'
           node --test tests/gallery.test.mjs
+          node --test skills/white-model-city-film/scripts/server.test.mjs
       - name: Install FFmpeg if needed
         run: |
           if ! command -v ffmpeg >/dev/null; then

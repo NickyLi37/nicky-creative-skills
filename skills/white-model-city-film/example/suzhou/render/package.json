@@ -1,0 +1,10 @@
+{
+  "name": "suzhou-jingwei-render",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "playwright-core": "^1.49.1",
+    "three": "^0.170.0"
+  }
+}
