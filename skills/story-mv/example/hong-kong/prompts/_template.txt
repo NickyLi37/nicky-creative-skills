@@ -1,0 +1,19 @@
+[Style] <one line>. Style, colour and character design match the first and last frames exactly.
+
+[Camera] <N> s, <shot size>, <camera position>. <Move and its reason, or the locked-off line below.>
+Locked-off camera, framed and lit exactly as in the first frame. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] <Where each person and object sits, in picture left and right. Wall and light colours. Must match the first frame.>
+
+[Cast] <Each person's fixed look and props, with fixed marks named by side.>
+
+[Beats]
+0.0-0.2 s: the picture is completely still and identical to the first frame.
+<a>-<b> s: <who does what, and why it happens>. Write each time 0.5 s earlier than wanted.
+<b>-<c> s: <the second action, at most two main actions in all>.
+<c>-<d> s: <who reacts first; who reacts a moment later>.
+Last 0.3 s: everything is completely still and matches the last frame.
+
+[Sound] Only when generateAudio is on, otherwise leave this block out: <only sounds with a visible cause. Nobody speaks.>
+
+[Limits] Only the people and objects in the first frame appear. Faces and bodies stay the same throughout. The picture stays clean, with no text, subtitles or watermark.

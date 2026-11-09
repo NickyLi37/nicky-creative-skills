@@ -1,0 +1,18 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location. Style, colour and character design match the first and last frames exactly.
+
+[Camera] 4 s, wide shot from the street, looking up at an old tenement corner.
+Locked-off camera, framed and lit exactly as in the first frame. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] The weathered corner of an old Kowloon tenement fills the right two-thirds: a pale square mark with bolt holes where a big sign used to hang, a window to the left of it, and a rusty roller shutter at street level. A street lamp glows at picture left. In the first frame the window is dark. In the last frame it glows with warm tungsten light from a bulb inside, and two cats sit side by side on the inside of the windowsill as dark silhouettes against the light: a round short-haired cat on the left and a fluffier long-haired cat on the right. Heavy rain falls.
+
+[Cast] Two cats, seen only as silhouettes behind the glass.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the first frame while the rain keeps falling.
+0.2-0.8 s: the window stays dark while the rain falls past the wall.
+0.8-1.2 s: the light inside the window switches on, and warm light fills the window and catches the raindrops in front of it. The windowsill is still empty when the light comes on.
+1.2-2.4 s: the two cats hop up from below onto the inside of the windowsill, one after the other, first the round cat on the left, then the fluffy cat on the right, and sit down side by side, looking out.
+2.4-3.7 s: the two silhouettes sit still in the warm window. One of them turns its head a little. The rain keeps falling.
+Last 0.3 s: the picture settles into the last frame.
+
+[Limits] Only the animals and objects in the first and last frames appear. The building, the square mark, the shutter and the other windows stay exactly as they are, and the other windows stay dark. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Each cat keeps exactly two ears and one tail and moves like an ordinary real cat. No person appears at any moment. Rain falls in every frame.

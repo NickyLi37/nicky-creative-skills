@@ -1,0 +1,17 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location, real fur. Style, colour and character design match the first and last frames exactly.
+
+[Camera] 4 s, close-up at cat height, three-quarter view.
+The camera starts framed and lit exactly as in the first frame and makes one gentle, steady push-in for the whole shot, about 6 % closer, ending framed exactly as in the last frame. No pan, no tilt, no shake. One continuous shot with no cuts.
+
+[Layout] The cream cat sits on the wet pavement at the left-hand third, facing picture right, rain falling on his face. In the first frame his eyes are closed. In the last frame his eyes are open, warm amber with dark vertical pupils, looking ahead to picture right, and his ears are up. The grey cat sits behind him, out of focus. Behind them the street and the taxi's red tail-lights stay out of focus.
+
+[Cast] The cream cat wears his tiny vermilion-red double-breasted jacket, wet with rain, and his red collar with the silver bell charm. The grey cat wears his tiny mustard-yellow shirt with small flowers.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the first frame while the rain keeps falling.
+0.2-1.7 s: he sits still with his eyes closed. Raindrops land on his head and run down his fur, and his whiskers twitch once.
+1.7-2.7 s: he opens his eyes over about a second, the lids lifting evenly, and his ears turn a little forward.
+2.7-3.7 s: he looks ahead to picture right with his eyes fully open, calm and alert, almost still while the rain keeps falling.
+Last 0.3 s: the picture settles into the last frame.
+
+[Limits] Only the animals and objects in the first frame appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Each cat keeps exactly two eyes, two ears and one tail, moves like an ordinary real cat and keeps the same costume. Their mouths stay closed. Rain falls in every frame.

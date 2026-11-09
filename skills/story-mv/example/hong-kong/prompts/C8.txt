@@ -1,0 +1,19 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location, real fur. Style, colour and character design match the first and last frames exactly.
+
+[Camera] 4 s, medium shot at ground level on the kerb.
+Locked-off camera, framed and lit exactly as in the first frame. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] A red taxi stands at the kerb with its nose towards picture left and its tail ending at the middle of the frame. In the first frame its left rear door is shut and nobody is getting out. In the last frame that door stands open: its dark inner panel shows behind the man's leg, and its red edge with a silver latch plate stands upright just in front of the tail-light. A man's black leather shoe and dark trouser leg have stepped down from the doorway into the gutter water at the left-hand third. Far across the road, out of focus at the right-hand third, the green cabinet stands under the red neon teapot sign with two cats on top: both cats sit in the first frame and in the last frame; in the last frame the cream cat sits tall with his ears up and his front paws on the cabinet top, facing the taxi. Thin rain falls.
+
+[Cast] The cream cat wears his tiny vermilion-red double-breasted jacket. The grey cat wears his tiny mustard-yellow shirt with small flowers. The man is seen from the thigh down, and the rest of him stays inside the dark taxi.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the first frame while the rain keeps falling.
+0.2-1.0 s: the taxi's left rear door unlatches and swings open in one smooth movement, keeping its shape, its dark inner panel turning into view, and stops with its red edge just in front of the tail-light, as in the last frame.
+1.0-1.8 s: a man's black leather shoe and dark trouser leg come out of the open door and step down into the gutter water. A small splash rises round the toe and falls back, and rings spread through the water.
+1.8-2.4 s: far behind, out of focus, the cream cat rises onto his hind legs on top of the cabinet, front paws lifted, and stretches to look at the taxi. The grey cat stays sitting beside him.
+2.4-3.0 s: the cream cat drops back onto his front paws and sits tall, ears up, still facing the taxi.
+3.0-3.7 s: everything holds still while the rain keeps falling: the open door, the shoe in the water, both cats sitting.
+Last 0.3 s: the picture settles into the last frame.
+
+[Limits] Only the people and objects in the first and last frames appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Only one shoe and one trouser leg appear. Each cat keeps exactly four legs, two ears and one tail, moves like an ordinary real cat and keeps the same costume. Their mouths stay closed. No human face appears at any moment. Rain falls in every frame.

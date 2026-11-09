@@ -1,0 +1,16 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location, real fur. Style, colour and character design match the input image exactly.
+
+[Camera] 4 s, medium shot, low on the pavement beside the cabinet.
+Locked-off camera, framed and lit exactly as in the input image. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] The cabinet stands at the left-hand third with the two cats on top, the cream cat on the left, the grey cat on the right, looking across the road towards picture right. The street runs away behind them. The last of the crowd walks close past the lens towards picture left, seen from the waist down as dark blurred shapes. A few dark figures far down both pavements walk away from the camera, far out of focus. The car lights far down the street stay small and far away. In the gap at the far end of the street, gold fireworks burst behind one plain dark tower. Confetti lies on the wet ground.
+
+[Cast] The cream cat wears his silver quilted puffer vest and oversized gold glitter party glasses shaped like the number 2000. The grey cat wears his shiny teal and magenta windbreaker and silver tinsel headband with two small foil stars.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the input image.
+0.2-1.2 s: the last legs walk out of the frame past the left edge at real speed.
+0.2-3.8 s: the few dark figures far down the street keep walking away and get smaller. Gold fireworks flash three times in the gap at the far end of the street.
+1.2-3.8 s: the two cats sit still, looking across the road towards picture right.
+
+[Limits] Only the people and objects in the input image appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. There are no added subtitles or watermark. The digits 2000 on his glasses stay exactly as they are. Each cat keeps exactly four legs, two ears and one tail, moves like an ordinary real cat and keeps the same costume. Their mouths stay closed. No human face appears at any moment.

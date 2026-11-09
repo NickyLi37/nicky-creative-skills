@@ -1,0 +1,16 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location, real fur. Style, colour and character design match the input image exactly.
+
+[Camera] 4 s, wide shot at road level across the road.
+Locked-off camera, framed and lit exactly as in the input image. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] The green steel cabinet stands on the kerb at the right of the frame with the signal post beside it. The old corner tenement rises behind, with its fluorescent shopfront and huge red neon teapot sign. A dark railing blurs across the left foreground. The two cats sit on top of the cabinet, the cream cat on the left, the grey cat on the right, facing the camera. A red taxi is driving along the road at the left. The rain has stopped and the road is wet. The people on the pavement are far out of focus, with closed umbrellas.
+
+[Cast] The cream cat wears his black wool overcoat, white shirt front and small round black sunglasses. The grey cat wears his red, white and blue striped canvas vest and matching bandana.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the input image.
+0.2-2.2 s: the red taxi drives forward along the road, past the railing and past the front of the cabinet, and out of the lower right of the frame at real speed.
+0.8-2.6 s: both cats turn their heads towards picture right to follow it, the cream cat first, the grey cat half a beat later.
+2.6-3.8 s: they hold still, looking after it. The neon flickers once.
+
+[Limits] Only the people and objects in the input image appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Each cat keeps exactly four legs, two ears and one tail, moves like an ordinary real cat and keeps the same costume. Their mouths stay closed. No human face appears at any moment.

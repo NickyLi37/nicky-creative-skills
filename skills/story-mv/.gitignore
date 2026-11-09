@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+# never commit generated media, project folders or lyric files
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp4
+*.mov
+*.f32
+lyrics*.txt
+subject_mask

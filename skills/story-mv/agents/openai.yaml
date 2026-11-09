@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story MV"
+  short_description: "Original-story music video from AI clips, cut on the beat, film-look finish"
+  default_prompt: "Use $story-mv to plan a story music video for my song. Measure the song first, write the story and board on its beat grid, and quote any paid generation before you start."

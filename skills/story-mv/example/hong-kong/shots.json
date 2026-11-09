@@ -1,0 +1,2017 @@
+{
+ "title": "HONG KONG",
+ "fps": 24,
+ "rate": 50.4,
+ "shots": [
+  {
+   "id": "P1",
+   "section": "序",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 0.0,
+   "end": 2.65,
+   "film_s": 2.65,
+   "size": "close",
+   "angle": "front three-quarter",
+   "camera": "locked",
+   "moves": [
+    "his eyes track something below",
+    "neon pulses on his fur"
+   ],
+   "next": "cut behind them",
+   "ground": "#101418",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.75,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "第一格：豆包的脸，红外套，窗外的霓虹一明一暗打在他身上，他的眼睛跟着楼下的东西慢慢移动"
+  },
+  {
+   "id": "P2",
+   "section": "序",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 2.65,
+   "end": 6.12,
+   "film_s": 3.47,
+   "size": "medium",
+   "angle": "behind over the shoulders",
+   "camera": "locked",
+   "moves": [
+    "the red figure walks below",
+    "two tails flick out of step"
+   ],
+   "next": "cut to the wheel",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.6,
+    "h": 0.55,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "【窗台机位】从背后看两只猫坐在开了一条缝的窗台上，红光从窗旁照进来，楼下一个红点走向路口"
+  },
+  {
+   "id": "P3",
+   "section": "序",
+   "wear": "她不露脸",
+   "start": 6.12,
+   "end": 7.87,
+   "film_s": 1.75,
+   "size": "close",
+   "angle": "road level",
+   "camera": "locked",
+   "moves": [
+    "the crooked wheel drops off the kerb and hitches on",
+    "the hem swings"
+   ],
+   "next": "cut high",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.62,
+    "h": 0.4,
+    "colour": "#d04a3e",
+    "label": "轮子和衣摆"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "猫的高度，歪轮子从路缘磕下去，一顿一顿走上白线，红色衣摆跟在后面，手不入画"
+  },
+  {
+   "id": "P4",
+   "section": "序",
+   "wear": "她不露脸",
+   "start": 7.87,
+   "end": 9.61,
+   "film_s": 1.74,
+   "size": "wide",
+   "angle": "high from the window",
+   "camera": "locked",
+   "moves": [
+    "her head turns back to the taxi",
+    "rain falls"
+   ],
+   "next": "cut inside the taxi",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.22,
+    "colour": "#d04a3e",
+    "label": "她"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "俯看：她站在开着门的的士前，头往窗台方向转了一点，随后转回车门，不露脸"
+  },
+  {
+   "id": "P5",
+   "section": "序",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 9.61,
+   "end": 13.07,
+   "film_s": 3.47,
+   "size": "medium",
+   "angle": "through the rear window",
+   "camera": "locked",
+   "moves": [
+    "the building recedes",
+    "the neon teapot pours in three steps"
+   ],
+   "next": "hard cut on the beat",
+   "ground": "#101418",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.45,
+    "h": 0.35,
+    "colour": "#d8605a",
+    "label": "楼和招牌"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "从的士后窗看出去，雨水里那栋楼越来越小，霓虹茶壶亮着，三楼窗口两个小点"
+  },
+  {
+   "id": "P6",
+   "section": "序",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 13.07,
+   "end": 16.59,
+   "film_s": 3.52,
+   "size": "wide",
+   "angle": "low from the parapet looking up",
+   "camera": "locked",
+   "moves": [
+    "the airliner crosses frame right to left",
+    "laundry whips",
+    "the grey cat flattens"
+   ],
+   "next": "plane exits, sky stays",
+   "ground": "#3a2418",
+   "mid": "#2a3b44",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.7,
+    "h": 0.3,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "钩子。第二天黄昏，地面还湿，飞机贴着天台压过，晾的衣服乱飞。茶茶压低身子，豆包抬头瞪着它"
+  },
+  {
+   "id": "P7",
+   "section": "序",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 16.59,
+   "end": 18.39,
+   "film_s": 1.8,
+   "size": "extreme wide",
+   "angle": "behind at roof height",
+   "camera": "locked",
+   "moves": [
+    "plane shrinks into the dusk",
+    "title holds"
+   ],
+   "next": "cut to morning tiles",
+   "ground": "#3a2418",
+   "mid": "#2a3b44",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.8,
+    "h": 0.16,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【天台机位】楼顶远景，天线林立，飞机变成小点。片名 HONG KONG 从 15 秒留到这里"
+  },
+  {
+   "id": "B1",
+   "section": "繁华",
+   "wear": "豆包 D1 伙计衫",
+   "start": 18.39,
+   "end": 21.79,
+   "film_s": 3.39,
+   "size": "medium",
+   "angle": "cat height along the floor",
+   "camera": "slow push",
+   "moves": [
+    "the waiter strides out frame left",
+    "steam drifts"
+   ],
+   "next": "cut in to the counter",
+   "ground": "#3a2418",
+   "mid": "#14413a",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.45,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "冰室早市，猫的高度沿地砖推进，侍应的腿走过，豆包戴纸帽坐在绿色圆凳上"
+  },
+  {
+   "id": "B2",
+   "section": "繁华",
+   "wear": "茶茶 C2 书生",
+   "start": 21.79,
+   "end": 23.55,
+   "film_s": 1.77,
+   "size": "close",
+   "angle": "over the counter",
+   "camera": "locked",
+   "moves": [
+    "the hand leaves the frame",
+    "the nose comes in from frame left"
+   ],
+   "next": "hard cut to the box",
+   "ground": "#3a2418",
+   "mid": "#14413a",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.55,
+    "h": 0.5,
+    "colour": "#a9aab0",
+    "label": "茶茶"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "中年的手放下一只有缺口的碟，手已出画，戴圆眼镜的茶茶凑上来闻"
+  },
+  {
+   "id": "B3",
+   "section": "繁华",
+   "wear": "D1 + C2",
+   "start": 23.55,
+   "end": 27.07,
+   "film_s": 3.52,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "the cream cat jumps up",
+    "the grey cat follows"
+   ],
+   "next": "cut to the tram",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "【铁箱机位】黄昏，豆包一跃跳上绿色铁箱，茶茶晚半拍跟上，两只猫坐好"
+  },
+  {
+   "id": "B4",
+   "section": "繁华",
+   "wear": "豆包 D3 西装 / 茶茶 C1 耳机牛仔",
+   "start": 27.07,
+   "end": 32.24,
+   "film_s": 5.17,
+   "size": "medium",
+   "angle": "side from the next seat",
+   "camera": "locked",
+   "moves": [
+    "wind lifts the ruff",
+    "neon slides past"
+   ],
+   "next": "tilt into the street",
+   "ground": "#14413a",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.55,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "【电车机位】电车二楼木椅，茶茶戴耳机把头伸出窗外，豆包穿西装坐得笔直，霓虹滑过"
+  },
+  {
+   "id": "B5",
+   "section": "繁华",
+   "wear": "豆包 D2 黑衣墨镜 / 茶茶 C3 红白蓝",
+   "start": 32.24,
+   "end": 37.48,
+   "film_s": 5.24,
+   "size": "wide",
+   "angle": "low looking up the street",
+   "camera": "slow track back",
+   "moves": [
+    "the passer-by leaves frame right",
+    "signs blink out of step",
+    "the two cats walk towards camera"
+   ],
+   "next": "cut to fire",
+   "ground": "#0f1f24",
+   "mid": "#14413a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.8,
+    "h": 0.18,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "【弥敦道机位】霓虹峡谷，招牌层层叠到天上，双层巴士驶过，两只猫并排走过人行道"
+  },
+  {
+   "id": "B6",
+   "section": "繁华",
+   "wear": "D2",
+   "start": 37.48,
+   "end": 39.2,
+   "film_s": 1.71,
+   "size": "close",
+   "angle": "three-quarter from the stall",
+   "camera": "locked",
+   "moves": [
+    "flame flares in the lenses",
+    "whiskers catch the light"
+   ],
+   "next": "hard cut to the box",
+   "ground": "#101418",
+   "mid": "#3a2418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.6,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "大排档的火映在豆包的墨镜上"
+  },
+  {
+   "id": "B7",
+   "section": "繁华",
+   "wear": "D2 + C3",
+   "start": 39.2,
+   "end": 42.66,
+   "film_s": 3.47,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "a red taxi passes in front",
+    "heads turn",
+    "the teapot pours"
+   ],
+   "next": "cut to the fish",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】霓虹夜，同一身衣服坐在铁箱上，面前开过一辆红的士，两只猫转头"
+  },
+  {
+   "id": "B8",
+   "section": "繁华",
+   "wear": "C2",
+   "start": 42.66,
+   "end": 44.41,
+   "film_s": 1.75,
+   "size": "close",
+   "angle": "through the water bags",
+   "camera": "rack focus",
+   "moves": [
+    "a goldfish crosses frame",
+    "focus racks to the eye"
+   ],
+   "next": "cut on the fish tail",
+   "ground": "#12343a",
+   "mid": "#14413a",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.55,
+    "colour": "#a9aab0",
+    "label": "茶茶"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "金鱼街，隔着同一个水袋看到戴眼镜的茶茶，一条金鱼游过他的镜片"
+  },
+  {
+   "id": "B9",
+   "section": "繁华",
+   "wear": "D4 唐装瓜皮帽",
+   "start": 44.41,
+   "end": 46.16,
+   "film_s": 1.74,
+   "size": "medium",
+   "angle": "low across the table",
+   "camera": "locked",
+   "moves": [
+    "tail flicks once",
+    "a blurred hand passes behind"
+   ],
+   "next": "cut to the water",
+   "ground": "#14413a",
+   "mid": "#101418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.35,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "麻将桌，豆包穿唐装卧在桌角，牌墙虚化，尾巴甩一下"
+  },
+  {
+   "id": "B10",
+   "section": "繁华",
+   "wear": "D5 + C5 水手服",
+   "start": 46.16,
+   "end": 49.62,
+   "film_s": 3.47,
+   "size": "wide",
+   "angle": "side along the rail",
+   "camera": "locked",
+   "moves": [
+    "skyline slides right to left",
+    "the ferry rocks gently"
+   ],
+   "next": "cut on the lights",
+   "ground": "#0f1f24",
+   "mid": "#2a3b44",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.62,
+    "h": 0.28,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "天星小轮木长椅，两只猫穿水手服坐在栏杆边，海港的灯从身后滑过"
+  },
+  {
+   "id": "B11",
+   "section": "繁华",
+   "wear": "D3",
+   "start": 49.62,
+   "end": 51.37,
+   "film_s": 1.74,
+   "size": "close",
+   "angle": "side through the glass",
+   "camera": "slow push",
+   "moves": [
+    "pupil tightens",
+    "gold light shimmers"
+   ],
+   "next": "cut wide",
+   "ground": "#3a2418",
+   "mid": "#101418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.62,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "金铺橱窗的金光打在豆包身上，金丝眼镜反光"
+  },
+  {
+   "id": "B12",
+   "section": "繁华",
+   "wear": "无猫",
+   "start": 51.37,
+   "end": 53.09,
+   "film_s": 1.73,
+   "size": "wide",
+   "angle": "low from a roof",
+   "camera": "locked",
+   "moves": [
+    "tower crane swings",
+    "windows come on"
+   ],
+   "next": "hard cut to the storm",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.45,
+    "h": 0.5,
+    "colour": "#c8d0d4",
+    "label": "新楼"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "黄昏，竹棚包着的新楼和塔吊，满城窗户一扇扇亮起"
+  },
+  {
+   "id": "B13",
+   "section": "繁华",
+   "wear": "D7 红雨衣 / C4 黄雨衣",
+   "start": 53.09,
+   "end": 56.58,
+   "film_s": 3.48,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "rain drives sideways",
+    "a red taxi throws up spray"
+   ],
+   "next": "cut to the crowd",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "【铁箱机位】台风天，两只猫穿雨衣坐在铁箱上，风雨横吹，一辆红的士溅起水"
+  },
+  {
+   "id": "B14",
+   "section": "繁华",
+   "wear": "D6 + C6 千禧派对",
+   "start": 56.58,
+   "end": 60.05,
+   "film_s": 3.47,
+   "size": "medium",
+   "angle": "road level beside the box",
+   "camera": "locked",
+   "moves": [
+    "legs drain out frame left",
+    "fireworks flicker between the buildings"
+   ],
+   "next": "push to his glasses",
+   "ground": "#101418",
+   "mid": "#2a3b44",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.3,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "千禧夜，两只猫在铁箱上，最后一批人贴着镜头往左走空。街尽头楼缝里烟花在闪。2000 的灯字后期贴到远处的楼上"
+  },
+  {
+   "id": "B15",
+   "section": "繁华",
+   "wear": "D6",
+   "start": 60.05,
+   "end": 61.78,
+   "film_s": 1.74,
+   "size": "close",
+   "angle": "front three-quarter at cat height",
+   "camera": "locked",
+   "moves": [
+    "firework light flickers",
+    "one ear turns"
+   ],
+   "next": "his eyeline across the road",
+   "ground": "#101418",
+   "mid": "#2a3b44",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.7,
+    "colour": "#e8cfa8",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "豆包戴着 2000 眼镜，烟花在身后闪，他看向画面右边的对面，没有看烟花。第十三版：身后的烟花真的炸开、绽放、落下"
+  },
+  {
+   "id": "B16",
+   "section": "繁华",
+   "wear": "无猫",
+   "start": 61.78,
+   "end": 63.52,
+   "film_s": 1.74,
+   "size": "medium",
+   "angle": "from the box across the road",
+   "camera": "locked",
+   "moves": [
+    "the green man flashes",
+    "a sheet of newspaper drifts"
+   ],
+   "next": "hard cut on the heaviest hit",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#2ea36a",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.12,
+    "colour": "#b8c8c8",
+    "label": "空路口"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "他看到的 B 角：远处那盏行人灯闪着绿光，地上有彩纸，路上没有人"
+  },
+  {
+   "id": "C1",
+   "section": "副歌一",
+   "wear": "D6 + C6",
+   "start": 63.52,
+   "end": 67.02,
+   "film_s": 3.49,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "crowd streaks past",
+    "the cats hold still"
+   ],
+   "next": "match to the wide city",
+   "ground": "#4a5a66",
+   "mid": "#2a3b44",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.58,
+    "h": 0.22,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "全曲最重的一下。第二天早上，路口人潮快进，两只猫还穿着派对衣服坐在铁箱上。猫层 C1 生成 4 秒，人潮层 C1x 生成 8 秒，后期加速叠帧再合成"
+  },
+  {
+   "id": "C2",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 67.02,
+   "end": 70.48,
+   "film_s": 3.47,
+   "size": "wide",
+   "angle": "behind on the wall",
+   "camera": "locked, push added in post",
+   "moves": [
+    "the city glitters",
+    "a tail curls"
+   ],
+   "next": "cut to window light",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.75,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "第一句 Hong Kong。太平山夜景，两只猫背对镜头坐在石墙上，全城灯海"
+  },
+  {
+   "id": "C3",
+   "section": "副歌一",
+   "wear": "回忆",
+   "start": 70.48,
+   "end": 73.97,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "over the table",
+   "camera": "locked",
+   "moves": [
+    "the needle runs",
+    "her hands feed the cloth"
+   ],
+   "next": "cut to the cold night",
+   "ground": "#5a4128",
+   "mid": "#3a2418",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.55,
+    "h": 0.55,
+    "colour": "#e8c8a0",
+    "label": "手"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "缝纫机下是红布，看得出一只很小的袖子，旁边放着裁开的黄花布。只拍手压布和走线"
+  },
+  {
+   "id": "C4",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 73.97,
+   "end": 75.7,
+   "film_s": 1.74,
+   "size": "medium",
+   "angle": "cat height under a table",
+   "camera": "locked",
+   "moves": [
+    "ceiling fan turns",
+    "his side rises and falls"
+   ],
+   "next": "cut on the hit",
+   "ground": "#12343a",
+   "mid": "#14413a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.6,
+    "h": 0.3,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "冰室收工，椅子倒扣在桌上，吊扇转着，两只猫睡在窗边"
+  },
+  {
+   "id": "C5",
+   "section": "副歌一",
+   "wear": "回忆",
+   "start": 75.7,
+   "end": 79.19,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "side backlit",
+   "camera": "locked",
+   "moves": [
+    "curtain lifts",
+    "her head bends to the cats"
+   ],
+   "next": "cut to the box",
+   "ground": "#3a2418",
+   "mid": "#5a4128",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.7,
+    "colour": "#f2e2bd",
+    "label": "剪影边光"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "窗前逆光，她抱着两只猫的剪影，红风衣挂在窗边"
+  },
+  {
+   "id": "C6",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 79.19,
+   "end": 82.67,
+   "film_s": 3.48,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "two taxis pass in front",
+    "heads turn and return"
+   ],
+   "next": "cut on the hit",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】雨停了，路面还湿。两辆红的士从面前开过，两只猫的头转过去又转回来"
+  },
+  {
+   "id": "C7",
+   "section": "副歌一",
+   "wear": "回忆",
+   "start": 82.67,
+   "end": 86.14,
+   "film_s": 3.47,
+   "size": "close",
+   "angle": "floor level",
+   "camera": "locked",
+   "moves": [
+    "the crooked wheel hitches along",
+    "the door closes"
+   ],
+   "next": "cut to the kerb",
+   "ground": "#5a4128",
+   "mid": "#3a2418",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.4,
+    "colour": "#d06050",
+    "label": "轮子和衣摆"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "夜里，地板高度，歪轮子一顿一顿拖过地板，红色衣摆，门从外面带上"
+  },
+  {
+   "id": "C8",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 86.14,
+   "end": 89.61,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "ground level at the kerb",
+   "camera": "locked",
+   "moves": [
+    "the door opens",
+    "leather shoes step down",
+    "the far cat stands and sits"
+   ],
+   "next": "cut to the memory",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.6,
+    "h": 0.4,
+    "colour": "#e8cfa8",
+    "label": "皮鞋和远处的猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "第三辆红的士靠 B 角路缘，左后门打开，前景落下一只男人的皮鞋。虚焦的背景里，豆包在箱顶站起来，又坐回去。第十三版：车门先关着，再打开，皮鞋踩出来，豆包随后在箱顶站起来"
+  },
+  {
+   "id": "C9",
+   "section": "副歌一",
+   "wear": "回忆",
+   "start": 89.61,
+   "end": 93.09,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "over the hands",
+   "camera": "locked",
+   "moves": [
+    "the fingers close",
+    "window light shifts"
+   ],
+   "next": "cut on the hit",
+   "ground": "#5a4128",
+   "mid": "#3a2418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.55,
+    "colour": "#e8c8a0",
+    "label": "手"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "掌心里已经放着钥匙，中年的手合上。左手腕一只旧手表"
+  },
+  {
+   "id": "C10",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 93.09,
+   "end": 96.58,
+   "film_s": 3.48,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "rain thickens",
+    "the signal stays red"
+   ],
+   "next": "cut in to the jacket",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】下雨了，路上没有车，两只猫坐在铁箱上，行人灯是红的，地上的倒影被雨打散"
+  },
+  {
+   "id": "C11",
+   "section": "副歌一",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 96.58,
+   "end": 98.31,
+   "film_s": 1.73,
+   "size": "extreme close",
+   "angle": "side macro",
+   "camera": "rack focus",
+   "moves": [
+    "a drop runs down the seam",
+    "the loose button shifts"
+   ],
+   "next": "hold, the song drops",
+   "ground": "#12343a",
+   "mid": "#101418",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.6,
+    "colour": "#d04a3e",
+    "label": "外套"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "雨水挂在红外套的线脚上，一颗黑纽扣松了"
+  },
+  {
+   "id": "I1",
+   "section": "间奏",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 98.31,
+   "end": 105.28,
+   "film_s": 6.97,
+   "size": "wide",
+   "angle": "inside the shop facing the street",
+   "camera": "locked",
+   "moves": [
+    "the shutter comes down",
+    "the cats stay seated",
+    "his hand on the bottom bar"
+   ],
+   "next": "black, then dusk",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.74,
+    "h": 0.2,
+    "colour": "#e8cfa8",
+    "label": "两只猫"
+   },
+   "task": "first_last",
+   "hard": 1,
+   "zh": "从冰室里往外拍。卷闸门已拉到大腿高，门外是老伙计的腿和坐着的两只猫，他的手握着门底的横杠把门拉到地，只留一条缝，全黑后期压掉"
+  },
+  {
+   "id": "I2",
+   "section": "间奏",
+   "wear": "无猫",
+   "start": 105.28,
+   "end": 110.48,
+   "film_s": 5.21,
+   "size": "wide",
+   "angle": "low across the crossing",
+   "camera": "locked",
+   "moves": [
+    "the sign lowers on ropes",
+    "a loose tube swings"
+   ],
+   "next": "cut to the sill",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.4,
+    "h": 0.3,
+    "colour": "#d8605a",
+    "label": "招牌"
+   },
+   "task": "first_last",
+   "hard": 1,
+   "zh": "蓝调时分，大招牌悬在半空，只拍下降的中段，工人在远处竹棚上"
+  },
+  {
+   "id": "I3",
+   "section": "间奏",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 110.48,
+   "end": 113.97,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "behind over the shoulders",
+   "camera": "locked",
+   "moves": [
+    "tails stay still",
+    "white light shifts on the glass"
+   ],
+   "next": "cut to the wall",
+   "ground": "#101418",
+   "mid": "#2a3b44",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.6,
+    "h": 0.55,
+    "colour": "#c8b090",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【窗台机位】窗台第一次是暗的，两只猫的背影，外面是白光"
+  },
+  {
+   "id": "V1",
+   "section": "主歌二",
+   "wear": "无猫",
+   "start": 113.97,
+   "end": 115.69,
+   "film_s": 1.73,
+   "size": "wide",
+   "angle": "low on the wall",
+   "camera": "locked",
+   "moves": [
+    "rain runs down the wall",
+    "a bare bulb flickers"
+   ],
+   "next": "cut to the tram",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.45,
+    "h": 0.5,
+    "colour": "#b8c8c8",
+    "label": "印子"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "A 角外墙，一块干净的方形印子和几个螺栓孔，雨水顺墙流下"
+  },
+  {
+   "id": "V2",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 115.69,
+   "end": 120.92,
+   "film_s": 5.22,
+   "size": "medium",
+   "angle": "side from the next seat",
+   "camera": "locked",
+   "moves": [
+    "rain runs down the window",
+    "white light slides past"
+   ],
+   "next": "cut to the street",
+   "ground": "#12343a",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.55,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【电车机位】同一张木椅，窗关着，雨水流下，白光滑过"
+  },
+  {
+   "id": "V3",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 120.92,
+   "end": 126.14,
+   "film_s": 5.22,
+   "size": "wide",
+   "angle": "low looking up the street",
+   "camera": "slow track back",
+   "moves": [
+    "a pale bus leaves up the street",
+    "the cats walk past"
+   ],
+   "next": "cut to the bus",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.8,
+    "h": 0.18,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "【弥敦道机位】霓虹换成白色 LED，一半店铺拉着卷闸，两只猫走过"
+  },
+  {
+   "id": "V4",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 126.14,
+   "end": 129.62,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "behind from the next seat",
+   "camera": "locked",
+   "moves": [
+    "the bus sways",
+    "the grey cat sniffs the hand"
+   ],
+   "next": "cut to the sky",
+   "ground": "#12343a",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.45,
+    "colour": "#c8c9cf",
+    "label": "茶茶"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "末班巴士，从过道拍上班族的肩膀和垂下的手，他靠在过道边睡着了，茶茶闻了闻他的手"
+  },
+  {
+   "id": "V5",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 129.62,
+   "end": 133.09,
+   "film_s": 3.47,
+   "size": "wide",
+   "angle": "low from the parapet looking up",
+   "camera": "locked",
+   "moves": [
+    "cloud drifts",
+    "one ear turns"
+   ],
+   "next": "cut on the hit",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.7,
+    "h": 0.3,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【天台机位，同 P6】两只猫抬头等，云飘过，什么也没飞过"
+  },
+  {
+   "id": "V6",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 133.09,
+   "end": 136.56,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "cat height at the shutter",
+   "camera": "locked",
+   "moves": [
+    "the hand leaves the frame",
+    "two noses come in from frame left"
+   ],
+   "next": "hard cut to the box",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.45,
+    "colour": "#c8a888",
+    "label": "碟和手"
+   },
+   "task": "first_last",
+   "hard": 1,
+   "zh": "老伙计的手从有缺口的碟上松开出画，两只猫走进画面，低头吃"
+  },
+  {
+   "id": "V7",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 136.56,
+   "end": 138.31,
+   "film_s": 1.75,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "rain falls",
+    "a tail moves"
+   ],
+   "next": "hard cut, same frame",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位，招牌已拆】雨夜"
+  },
+  {
+   "id": "V8",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 138.31,
+   "end": 140.06,
+   "film_s": 1.74,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "fog drifts",
+    "an ear turns"
+   ],
+   "next": "hard cut, same frame",
+   "ground": "#2a3b44",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#e0ccac",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】雾夜"
+  },
+  {
+   "id": "V9",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 140.06,
+   "end": 141.78,
+   "film_s": 1.73,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "a sheet of paper drifts",
+    "the signal changes"
+   ],
+   "next": "cut close",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.2,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】干燥的夜"
+  },
+  {
+   "id": "V10",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 141.78,
+   "end": 145.26,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "road level side on",
+   "camera": "locked",
+   "moves": [
+    "the cream cat jumps and slides back down"
+   ],
+   "next": "cut to the two of them",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.6,
+    "h": 0.5,
+    "colour": "#d8c4a0",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "路口的绿铁箱换成了高一截的灰色新箱，箱顶是斜的。豆包一跃，爪子打滑，滑了下来"
+  },
+  {
+   "id": "V11",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 145.26,
+   "end": 148.75,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "low beside the box",
+   "camera": "locked",
+   "moves": [
+    "he glares up at the box",
+    "legs pass in front"
+   ],
+   "next": "music climbs",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.5,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "他瞪了箱子一眼。两只猫坐到箱脚的地上，人腿从面前走过，什么也看不见"
+  },
+  {
+   "id": "V12",
+   "section": "主歌二",
+   "wear": "无猫",
+   "start": 148.75,
+   "end": 152.22,
+   "film_s": 3.48,
+   "size": "wide",
+   "angle": "from the side along the wing",
+   "camera": "locked",
+   "moves": [
+    "the wing descends",
+    "strobes flash"
+   ],
+   "next": "cut to the runway",
+   "ground": "#0f1f24",
+   "mid": "#2a3b44",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.45,
+    "h": 0.3,
+    "colour": "#c8d0d4",
+    "label": "机翼"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "机翼穿过雨云下降，翼尖灯闪，云缝下是灯海"
+  },
+  {
+   "id": "V13",
+   "section": "主歌二",
+   "wear": "无猫",
+   "start": 152.22,
+   "end": 153.97,
+   "film_s": 1.74,
+   "size": "medium",
+   "angle": "low head-on from the runway",
+   "camera": "locked",
+   "moves": [
+    "landing lights grow",
+    "rain streaks through the beams"
+   ],
+   "next": "cut on the hit",
+   "ground": "#101418",
+   "mid": "#2a3b44",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.3,
+    "colour": "#e8eef0",
+    "label": "着陆灯"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "跑道雨雾，着陆灯直直压过来"
+  },
+  {
+   "id": "V14",
+   "section": "主歌二",
+   "wear": "无猫",
+   "start": 153.97,
+   "end": 155.69,
+   "film_s": 1.73,
+   "size": "close",
+   "angle": "low beside the wheels",
+   "camera": "locked",
+   "moves": [
+    "tyres slam down",
+    "spray bursts"
+   ],
+   "next": "cut to the road",
+   "ground": "#101418",
+   "mid": "#2a3b44",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.5,
+    "colour": "#c8d0d4",
+    "label": "水雾"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "轮子砸在湿跑道上，水雾炸开"
+  },
+  {
+   "id": "V15",
+   "section": "主歌二",
+   "wear": "她不露脸",
+   "start": 155.69,
+   "end": 158.29166666666666,
+   "film_s": 2.6,
+   "size": "medium",
+   "angle": "through the windscreen",
+   "camera": "locked",
+   "moves": [
+    "wipers beat",
+    "white lights stream past"
+   ],
+   "next": "cut to the door",
+   "ground": "#0f1f24",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.4,
+    "colour": "#b8c8c8",
+    "label": "街"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "的士里看出去，雨刷摆动，白色的街迎面而来，和 P5 反向"
+  },
+  {
+   "id": "V16",
+   "section": "主歌二",
+   "wear": "她不露脸",
+   "start": 158.29166666666666,
+   "end": 160.91,
+   "film_s": 2.62,
+   "size": "medium",
+   "angle": "ground level at the kerb",
+   "camera": "locked",
+   "moves": [
+    "the shoe steps down",
+    "water rings spread"
+   ],
+   "next": "cut to him",
+   "ground": "#101418",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.5,
+    "colour": "#d04a3e",
+    "label": "鞋和衣摆"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "B 角，雨里，左后门打开，黑色尖头鞋踩进路缘边的积水，红色衣摆落下来。构图同 C8。第十三版：门先关着，打开，鞋再踩出来，镜头从 158.29 s 起，提前约 0.9 秒（一拍），V15 相应缩短"
+  },
+  {
+   "id": "V17",
+   "section": "主歌二",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 160.91,
+   "end": 164.4,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "side at cat height",
+   "camera": "slow push",
+   "moves": [
+    "rain beads on his face",
+    "camera eases in"
+   ],
+   "next": "hold for the second line",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.65,
+    "colour": "#d8c4a0",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "两只猫坐在地上，豆包闭着眼睛，雨水打在脸上，一颗纽扣松着，茶茶虚在身后。第十三版：最后睁眼"
+  },
+  {
+   "id": "R1",
+   "section": "重逢",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 164.4,
+   "end": 167.88,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "road level beside the cats",
+   "camera": "locked",
+   "moves": [
+    "legs flood across",
+    "the wheel hitches past",
+    "one ear swivels"
+   ],
+   "next": "lift to the overhead",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#2ea36a",
+   "subject": {
+    "x": 0.382,
+    "y": 0.62,
+    "h": 0.4,
+    "colour": "#d8c4a0",
+    "label": "两只猫"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "第二句 Hong Kong。绿灯亮了，人腿从猫身边涌上路面，腿缝里歪轮子一顿一顿走来，豆包的耳朵转过去"
+  },
+  {
+   "id": "R2",
+   "section": "重逢",
+   "wear": "她",
+   "start": 167.88,
+   "end": 171.35,
+   "film_s": 3.48,
+   "size": "wide overhead",
+   "angle": "straight down",
+   "camera": "locked, push added in post",
+   "moves": [
+    "umbrellas flow around her",
+    "one umbrella brushes her and moves on"
+   ],
+   "next": "drop to her face",
+   "ground": "#101418",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.5,
+    "h": 0.1,
+    "colour": "#d04a3e",
+    "label": "她"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "钩子。俯拍一片黑伞，中间一个红点，一把伞擦过她的肩膀，那人头也不回"
+  },
+  {
+   "id": "R3",
+   "section": "重逢",
+   "wear": "她",
+   "start": 171.35,
+   "end": 174.84,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "low three-quarter",
+   "camera": "locked",
+   "moves": [
+    "rain falls past her",
+    "her eyes lift"
+   ],
+   "next": "her eyeline to the wall",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.45,
+    "h": 0.75,
+    "colour": "#e8c8b0",
+    "label": "她的脸"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "全片第一张人脸。短发被雨打湿，她仰起脸看向自己的家。用 R8 的首帧重拍，水平翻转，裁掉膝盖，12 fps 抽帧"
+  },
+  {
+   "id": "R4",
+   "section": "重逢",
+   "wear": "无",
+   "start": 174.84,
+   "end": 176.57,
+   "film_s": 1.74,
+   "size": "wide",
+   "angle": "low looking up at the wall",
+   "camera": "locked",
+   "moves": [
+    "rain crosses frame",
+    "a light goes out in the next window"
+   ],
+   "next": "cut on the hit",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.4,
+    "h": 0.4,
+    "colour": "#b8c8c8",
+    "label": "印子"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "她看到的：外墙方形印子，一扇黑窗，下面生锈的卷闸门"
+  },
+  {
+   "id": "R5",
+   "section": "重逢",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 176.57,
+   "end": 180.06,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "cat height tracking with him",
+   "camera": "track with him",
+   "moves": [
+    "he runs left to right",
+    "legs step aside late",
+    "water kicks up"
+   ],
+   "next": "cut on the hit",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.62,
+    "h": 0.3,
+    "colour": "#d8c4a0",
+    "label": "豆包"
+   },
+   "task": "i2v",
+   "hard": 3,
+   "zh": "豆包冲出去，从腿中间穿过，一双腿停住跺了一下，让开。茶茶晚半拍跟着"
+  },
+  {
+   "id": "R6",
+   "section": "重逢",
+   "wear": "她",
+   "start": 180.06,
+   "end": 181.78,
+   "film_s": 1.73,
+   "size": "full",
+   "angle": "side at low height",
+   "camera": "locked",
+   "moves": [
+    "she crouches down",
+    "her head lowers"
+   ],
+   "next": "cut to him",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.6,
+    "colour": "#d04a3e",
+    "label": "她"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "她在路中间蹲下来，低着头"
+  },
+  {
+   "id": "R7",
+   "section": "重逢",
+   "wear": "豆包红外套 / 茶茶黄花衬衫",
+   "start": 181.78,
+   "end": 183.53,
+   "film_s": 1.74,
+   "size": "close",
+   "angle": "behind him low",
+   "camera": "locked",
+   "moves": [
+    "he skids to a stop",
+    "he looks up"
+   ],
+   "next": "cut to her",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.5,
+    "colour": "#d8c4a0",
+    "label": "豆包"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "豆包在她面前一步刹住，瞪着她。第十三版：手重画成双臂交叠，只露一只手"
+  },
+  {
+   "id": "R8",
+   "section": "重逢",
+   "wear": "她",
+   "start": 183.53,
+   "end": 185.28,
+   "film_s": 1.75,
+   "size": "close",
+   "angle": "low three-quarter",
+   "camera": "locked",
+   "moves": [
+    "her head lifts",
+    "her hand hovers"
+   ],
+   "next": "cut to the touch",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.45,
+    "h": 0.75,
+    "colour": "#e8c8b0",
+    "label": "她的脸"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "她抬起头，愣住，手悬在半空"
+  },
+  {
+   "id": "R9",
+   "section": "重逢",
+   "wear": "她 + 豆包红外套 / 茶茶黄花衬衫",
+   "start": 185.28,
+   "end": 188.75,
+   "film_s": 3.47,
+   "size": "extreme close",
+   "angle": "low on the hand",
+   "camera": "locked",
+   "moves": [
+    "her hand comes down and settles on his head",
+    "he lifts his head into her palm",
+    "one short stroke"
+   ],
+   "next": "widen to the hug",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.55,
+    "h": 0.6,
+    "colour": "#d8c4a0",
+    "label": "头和手"
+   },
+   "task": "first_last",
+   "hard": 3,
+   "zh": "她的手落到他头顶，轻轻抚过，他抬头顶进她手心，闭上眼"
+  },
+  {
+   "id": "R10",
+   "section": "重逢",
+   "wear": "她 + 豆包红外套 / 茶茶黄花衬衫",
+   "start": 188.75,
+   "end": 192.22,
+   "film_s": 3.48,
+   "size": "medium",
+   "angle": "low front three-quarter",
+   "camera": "locked",
+   "moves": [
+    "she breathes in and holds them closer",
+    "the cream cat closes his eyes",
+    "she breathes out"
+   ],
+   "next": "lift off",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.382,
+    "y": 0.5,
+    "h": 0.7,
+    "colour": "#d04a3e",
+    "label": "她和猫"
+   },
+   "task": "first_last",
+   "hard": 3,
+   "zh": "她低头闭着眼，把两只猫搂在怀里。橘猫慢慢闭上眼。雨一直下"
+  },
+  {
+   "id": "R11",
+   "section": "重逢",
+   "wear": "她 + 豆包红外套 / 茶茶黄花衬衫",
+   "start": 192.22,
+   "end": 195.71,
+   "film_s": 3.48,
+   "size": "wide",
+   "angle": "high three-quarter",
+   "camera": "pull away upward",
+   "moves": [
+    "signs change block by block",
+    "wipers beat on the taxi"
+   ],
+   "next": "cut to the hands",
+   "ground": "#101418",
+   "mid": "#12343a",
+   "accent": "#c8322b",
+   "subject": {
+    "x": 0.618,
+    "y": 0.6,
+    "h": 0.1,
+    "colour": "#d04a3e",
+    "label": "她和猫"
+   },
+   "task": "i2v",
+   "hard": 2,
+   "zh": "高角度。路上走空，只剩她、两只猫、立着的箱子和停线上等着的红的士。白色 LED 和霓虹两层同机位各生成一条雨和雨刷，后期按块揭开，茶壶最后亮，拉远也后期做"
+  },
+  {
+   "id": "O1",
+   "section": "尾声",
+   "wear": "手",
+   "start": 195.71,
+   "end": 199.19,
+   "film_s": 3.48,
+   "size": "close",
+   "angle": "over the hands",
+   "camera": "locked",
+   "moves": [
+    "the old hand opens",
+    "her hand closes over it"
+   ],
+   "next": "cut to the lamp",
+   "ground": "#2a3b44",
+   "mid": "#101418",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.55,
+    "h": 0.55,
+    "colour": "#c8a888",
+    "label": "手"
+   },
+   "task": "first_last",
+   "hard": 2,
+   "zh": "第十三版起：R4 那栋楼的近景，雨夜，黑窗亮起暖灯，两只猫跳上窗台坐下，剪影，接 O2 的室内。原分镜是生锈的卷闸门前，老伙计摊开手，掌心是那把钥匙，她的手合上去。第十四版裁成只拍那扇窗（4K 画面 x 0–1960, y 300–1402 放大回 3840x2160）：原画面带着拆掉招牌后的空板，接在招牌重新亮起的 R11 后面接不上。"
+  },
+  {
+   "id": "O2",
+   "section": "尾声",
+   "wear": "她 + 豆包红外套 / 茶茶黄花衬衫",
+   "start": 199.19,
+   "end": 202.66,
+   "film_s": 3.48,
+   "size": "extreme close",
+   "angle": "high over her shoulder",
+   "camera": "locked",
+   "moves": [
+    "her fingers move in the fur",
+    "his side rises and falls"
+   ],
+   "next": "cut to the sill",
+   "ground": "#3a2418",
+   "mid": "#101418",
+   "accent": "#e0a040",
+   "subject": {
+    "x": 0.382,
+    "y": 0.55,
+    "h": 0.7,
+    "colour": "#d8c090",
+    "label": "两块布"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "屋里的灯下，解开的丝巾一头搭在茶茶背上，花对上了花。她的手指碰了碰那颗松了的黑纽扣，风衣上有一颗一样的"
+  },
+  {
+   "id": "O3",
+   "section": "尾声",
+   "wear": "她 + 豆包红外套 / 茶茶黄花衬衫",
+   "start": 202.66,
+   "end": 207.88,
+   "film_s": 5.21,
+   "size": "medium",
+   "angle": "behind over the shoulders",
+   "camera": "locked",
+   "moves": [
+    "one tail flicks",
+    "one ear turns",
+    "her head tips to the side"
+   ],
+   "next": "cut to dawn",
+   "ground": "#0f1f24",
+   "mid": "#12343a",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.382,
+    "y": 0.55,
+    "h": 0.7,
+    "colour": "#d04a3e",
+    "label": "三个背影"
+   },
+   "task": "i2v",
+   "hard": 1,
+   "zh": "【窗台机位】两只猫在窗台上，她坐在窗台前的矮凳上，三个背影，窗外是白色的街，豆包的尾巴甩一下"
+  },
+  {
+   "id": "O4",
+   "section": "尾声",
+   "wear": "无猫",
+   "start": 207.88,
+   "end": 215.32,
+   "film_s": 7.45,
+   "size": "wide",
+   "angle": "road level across the road",
+   "camera": "locked",
+   "moves": [
+    "the signal changes",
+    "a sparrow lands on the box"
+   ],
+   "next": "fade to the end title",
+   "ground": "#4a5a66",
+   "mid": "#2a3b44",
+   "accent": "#cfe0e0",
+   "subject": {
+    "x": 0.618,
+    "y": 0.58,
+    "h": 0.12,
+    "colour": "#e8eef0",
+    "label": "空铁箱"
+   },
+   "task": "i2v",
+   "hard": 0,
+   "zh": "【铁箱机位】清晨，灰箱箱顶空着，招牌印子旁的窗开着，窗口两个小点。行人灯换了一次，一只麻雀落在箱顶。片尾标题，音乐淡出"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location, real fur. Style, colour and character design match the input image exactly.
+
+[Camera] 4 s, close-up of his face, three-quarter view.
+Locked-off camera, framed and lit exactly as in the input image. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] The cream cat's face fills the right-hand half of the frame. The dark window frame blurs across the left foreground. Red neon falls on one side of his face, teal light on the other, and the shadows of rain run down his fur.
+
+[Cast] The cream cat wears his tiny vermilion-red double-breasted jacket with four small black buttons.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the input image.
+0.2-2.4 s: his amber eyes move a little further down and towards picture left, following something far below, at an even pace, while his head stays still and the red neon on his fur dims and comes back twice, the way a neon sign does.
+2.4-3.8 s: he blinks once and holds that look until the shot ends.
+
+[Limits] Only the people and objects in the input image appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Each cat keeps exactly four legs, two ears and one tail, moves like an ordinary real cat and keeps the same costume. Their mouths stay closed.

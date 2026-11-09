@@ -6,15 +6,21 @@ Reusable creative workflows, with the films they helped produce.
 
 This is Nicky Li's growing collection of practical skills for Sumi Studio and compatible agent hosts. Each skill packages a repeatable creative process, its references and checks. The Gallery connects the instructions to real examples, with separate **category** and **style** filters.
 
-## Latest film: Suzhou
+## Latest film: HONG KONG
+
+[![HONG KONG, a cat music video](site/media/hong-kong-poster.jpg)](https://nickyli37.github.io/nicky-creative-skills/projects/hong-kong.html)
+
+**HONG KONG** — a fan-made music video for The Weeknd's *HONG KONG (feat. 王菲季候風)*. Two teahouse cats wait every night at a Kowloon crossing for the woman who left by taxi. Nicky Li and Claude made the 4:08 film in two days: 69 shots and 88 Seedance 2.5 clips, generated and upscaled to 4K through Sumi Studio MCP, with a film-look finish in Python and FFmpeg. Watch the complete film on the [project page](https://nickyli37.github.io/nicky-creative-skills/projects/hong-kong.html), then explore the [skill and the HONG KONG example](skills/story-mv/) or [download the `.skill` package](https://nickyli37.github.io/nicky-creative-skills/downloads/story-mv.skill).
+
+The web copy is silent and shows no lyrics, because the song and its lyrics belong to their owners. The 4K master with sound stays outside this repository, and so do the clips, frames, character boards, song and lyric file. The [case study](docs/hong-kong-case-study.md) explains the production and what was checked.
+
+## Earlier films
 
 [![人家尽枕河 · Homes Pillowed on the River](site/media/suzhou-poster.jpg)](https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html)
 
 **《人家尽枕河》 / Homes Pillowed on the River** — Nicky Li and Claude made a 4-minute-18-second city documentary with 92,681 building footprints, historical maps and a frame-driven Three.js renderer. Narration and music were generated through Sumi Studio MCP. Watch the complete 1080p film with sound on the [project page](https://nickyli37.github.io/nicky-creative-skills/projects/suzhou.html), then explore the [reusable skill and Suzhou source](skills/white-model-city-film/) or [download the `.skill` package](https://nickyli37.github.io/nicky-creative-skills/downloads/white-model-city-film.skill).
 
 The 4K production master stays outside this repository. Raw geospatial data, historical images, fonts and audio stems are not bundled; the [case study](docs/suzhou-case-study.md) explains the production and reconstruction boundaries.
-
-## Earlier film
 
 [![Thriller AI-character recreation](site/media/thriller-ai-recast.jpg)](https://nickyli37.github.io/nicky-creative-skills/#gallery)
 
@@ -26,12 +32,17 @@ The film demonstrates the MV recast workflow; it is not a claim of pixel-exact c
 
 | Skill | Category | Example styles | Use |
 |---|---|---|---|
+| [story-mv](skills/story-mv/SKILL.md) | Music video | Cinematic, Hong Kong film | An original story with cuts on the song's beat grid, first and last frames, Seedance clips and 4K upscale, a film-look finish, lyrics timed without the agent reading them, credits and release package |
 | [white-model-city-film](skills/white-model-city-film/SKILL.md) | Documentary | White model, Cartographic | Real building data, historical layers, deterministic 3D rendering, narration timing and sound mix |
 | [sumi-mv-recast](skills/sumi-mv-recast/SKILL.md) | Music video | Anime, Cinematic | Character replacement, aligned Depth, scene references, shot repair and frame-based assembly |
 
 Styles describe demonstrated examples; they do not restrict the skill to those styles. New skills belong in their own `skills/<name>/` folders. Add their category, styles and examples to [site/catalog.json](site/catalog.json); the Gallery discovers them automatically.
 
 ## Install and use
+
+**Story MV:** download the [`.skill` package](https://nickyli37.github.io/nicky-creative-skills/downloads/story-mv.skill) for a compatible Claude host, or copy the complete `skills/story-mv/` folder into `~/.claude/skills/` (Claude Code) or `~/.codex/skills/` (Codex). See its [requirements and scripts](skills/story-mv/README.md). Video generation and upscaling run through Sumi Studio MCP and spend your own credits; the skill quotes every batch first.
+
+> Use story-mv to make a music video for this song. Start with a story, a storyboard on the beat and a credit budget.
 
 **City film:** download the [`.skill` package](https://nickyli37.github.io/nicky-creative-skills/downloads/white-model-city-film.skill) for a compatible Claude host, or copy the complete `skills/white-model-city-film/` folder into `~/.claude/skills/` (Claude Code) or `~/.codex/skills/` (Codex). See its [requirements and setup](skills/white-model-city-film/README.md). A Sumi account is needed only when generating narration/music through Sumi Studio MCP; those calls spend your own credits.
 
@@ -71,9 +82,10 @@ python3 -m unittest discover -s tests -p 'test_*.py'
 node --test tests/gallery.test.mjs
 node --test skills/white-model-city-film/scripts/server.test.mjs
 python3 skills/sumi-mv-recast/tests/test_media.py
+python3 skills/story-mv/tests/test_scripts.py
 ```
 
-The last command requires FFmpeg/ffprobe with H.264/AAC support. The helper tests use synthetic media only. See [validation](docs/validation.md).
+The last two commands require FFmpeg/ffprobe with H.264/AAC support; the story-mv tests also need NumPy, OpenCV and Pillow and skip what they cannot run. The helper tests use synthetic media only. See [validation](docs/validation.md).
 
 ## Contribute and maintain
 

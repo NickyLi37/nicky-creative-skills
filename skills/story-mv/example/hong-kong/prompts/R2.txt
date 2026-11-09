@@ -1,0 +1,15 @@
+[Style] Mid-1990s Hong Kong art-house film on 35 mm colour negative, real location. Style, colour and character design match the input image exactly.
+
+[Camera] 4 s, wide high-angle shot looking steeply down on the junction.
+Locked-off camera, framed and lit exactly as in the input image. The camera remains completely still for the entire shot: no push-in, no pull-back, no pan, no tilt, no zoom, no shake, no drift. One continuous shot with no cuts.
+
+[Layout] A dense crowd of black umbrellas crosses the wet road from both sides. At the right-hand third one woman stands still with no umbrella, seen from above and behind: her short black hair, the whole back of her red coat and her right hand on the raised handle of the suitcase at picture right of her. She is the only red thing in the frame. Two white crossing lines with studs run across the wet black road.
+
+[Cast] The woman wears her long vermilion-red coat, mustard floral silk scarf, wide black trousers and black pointed pumps with thin stiletto heels, with short black hair. The suitcase is a worn oxblood leather suitcase with brass corners and two small black wheels, the left wheel bent so it sits crooked.
+
+[Beats]
+0.0-0.2 s: the picture is identical to the input image.
+0.2-3.8 s: all the black umbrellas keep moving across the frame at real walking speed, flowing around her from both sides. She stands still.
+1.2-1.8 s: the nearest umbrella at picture left of her walks towards picture right, passes just above her head in the picture, its rim brushes her shoulder on picture left, her shoulder gives a little, and that umbrella moves on towards picture right without stopping. Her hand stays on the handle.
+
+[Limits] Only the people and objects in the input image appear. Faces and bodies stay the same throughout. Real speed, no floaty or slow movement. The picture stays clean, with no text, subtitles or watermark. Every umbrella stays black. No other red appears. No human face appears at any moment. Her head stays facing away from the camera.

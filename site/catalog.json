@@ -3,6 +3,31 @@
   "repoUrl": "https://github.com/NickyLi37/nicky-creative-skills",
   "skills": [
     {
+      "id": "story-mv",
+      "title": "Story MV · 剧情 MV",
+      "description": "Write an original story for a song and shoot it in many short AI clips: a storyboard on the beat grid, first and last frames, Seedance 2.5 through Sumi Studio MCP, a film-look finish and lyric typography the agent never reads. 从故事、分镜到 4K 成片、署名卡和封面。",
+      "category": "Music video",
+      "styles": [
+        "Cinematic",
+        "Hong Kong film"
+      ],
+      "skillUrl": "https://github.com/NickyLi37/nicky-creative-skills/tree/main/skills/story-mv",
+      "sumiUrl": "",
+      "projectUrl": "projects/hong-kong.html",
+      "examples": [
+        {
+          "id": "hong-kong-cats",
+          "title": "HONG KONG · 猫猫 MV",
+          "description": "Nicky Li 与 Claude 通过 Sumi Studio MCP 制作。两只猫每晚守在九龙一个路口，等坐的士离开的她回来：69 个镜头，88 条 Seedance 2.5 片段。",
+          "video": "media/hong-kong-preview.mp4",
+          "poster": "media/hong-kong-poster.jpg",
+          "durationSeconds": 248.166667,
+          "aspectRatio": "16:9",
+          "audioLabel": "Silent web preview · full film · no lyrics · 720p"
+        }
+      ]
+    },
+    {
       "id": "white-model-city-film",
       "title": "White-model city film · 城市白模纪录短片",
       "description": "Turn real building data into a city documentary with Three.js, historical maps, AI narration and a continuous score. 从真实建筑、历史地图到双语字幕与 4K 成片。",

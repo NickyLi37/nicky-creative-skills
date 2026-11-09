@@ -33,3 +33,14 @@ The following credits describe third-party inputs to the rendered work, not file
 | Fonts | Noto Sans/Serif CJK, Inter, Ma Shan Zheng, SIL OFL | Rendered text; font files are not bundled |
 
 This release grants no additional blanket license to the combined film, generated audio or branding. Existing third-party permissions and obligations are unaffected. In particular, the code's MIT license does not replace CC BY, CC BY-SA or ODbL terms; any adaptation covered by ShareAlike retains those terms. See the [case study](../../docs/suzhou-case-study.md) for reconstruction and data limits.
+
+## HONG KONG
+
+- `hong-kong-preview.mp4`: the complete 248.166667-second film, 1280×720, 24 fps, 16:9, H.264, silent, with the Sumi Studio watermark. It was rendered for this Gallery by the same 4K finishing pipeline as the final version 15, with the lyric layer switched off, then encoded for the web. The opening and closing credit cards are kept. The song and the on-screen lyrics are left out because their rights belong to the song's owners. The 4K master with sound is not distributed here.
+- `hong-kong-poster.jpg`: the approved 1920×1080 cover, unchanged: the title and the two cats from the Nathan Road shot.
+- `hong-kong-tram.jpg`, `hong-kong-cabinet.jpg`: 1920×1080 stills from frames 720 and 1320 of that lyric-free render.
+- Production: Nicky Li in collaboration with Claude. First and last frames were drawn with GPT Image 2.6; the clips were generated with Seedance 2.5 and upscaled to 4K through Sumi Studio MCP; the finish was made with Python, OpenCV and FFmpeg.
+- Music: The Weeknd, *HONG KONG (feat. 王菲季候風)*, released 31 October 2026, which samples Faye Wong's *季候風 (Monsoon)*, 1993. This is a fan work, not affiliated with the artists or their labels. No recording, composition or lyric is distributed here.
+- The cats 豆包 and 茶茶 are from 墙边茶馆 in Suzhou. The look is an homage to Wong Kar-wai's Hong Kong films. Its colour targets were measured from a [fan edit uploaded to YouTube by Schumann](https://www.youtube.com/watch?v=YxAZU4saD84); none of that video is included.
+
+The preview, poster and stills have no additional open-source media license. All applicable rights remain with their respective holders. See the [case study](../../docs/hong-kong-case-study.md) for how the film was made and what was checked.
